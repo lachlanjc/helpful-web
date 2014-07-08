@@ -79,3 +79,7 @@
     color: darken($btn-danger-color, 5%);
   }
 }
+
+h1 .btn.pull-right {
+  margin-top: $padding-base-vertical;
+}

@@ -36,3 +36,15 @@
 .form-actions {
   @include clearfix;
 }
+
+.help-block-left {
+  float: left;
+}
+
+.help-block-right {
+  float: right;
+}
+
+.last-row {
+  margin-top: 1em;
+}
